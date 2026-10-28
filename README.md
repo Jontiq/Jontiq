@@ -4,7 +4,9 @@
 I’m a **System Developer student** specializing in .NET (graduating Summer 2027), currently completing a software development internship.
 
 🔄 **Flow & Systems Mindset:** I have a strong eye for end-to-end system flows and understanding how small logic changes impact long-term outcomes, performance, and user experience.
+
 📦 **Domain Context:** I bring practical experience from e-commerce, logistics, and operational workflows, helping me write code that directly aligns with real business needs.
+
 🚀 **Fullstack Craft:** I enjoy the entire development chain, from designing clean UI wireframes in Figma to building robust .NET applications, managing database structures, and writing tests.
 
 ---
