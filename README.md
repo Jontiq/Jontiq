@@ -16,8 +16,9 @@ I’m a **System Developer student** specializing in .NET (graduating Summer 202
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.shion.dev/api?username=Jontiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=Jontiq&theme=dark&hide_border=false" width="100%" />
-<br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jontiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Jontiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=Jontiq&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jontiq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
